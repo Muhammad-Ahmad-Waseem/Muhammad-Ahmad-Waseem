@@ -18,9 +18,8 @@ I am a **PhD student** passionate about research in **Machine Learning**, with a
 
 - [**Reverse DAAM**](https://github.com/Muhammad-Ahmad-Waseem/rdaam)  
   *A visualization pipeline for understanding Diffusion Models.*
-  
-- [**Built-up Area Detection**](https://github.com/Muhammad-Ahmad-Waseem/Building-Detection)
 
+  - [**Built-up Area Detection**]([https://github.com/Muhammad-Ahmad-Waseem/rdaam](https://github.com/Muhammad-Ahmad-Waseem/Building-Detection))  
   *Automated extraction of builyup area segmentation from satellite imagery using advanced computer vision techniques.*
   
 - [**Accelerator for Handwritten Digit Recognition**](https://github.com/Muhammad-Ahmad-Waseem/Building-Detection)  
