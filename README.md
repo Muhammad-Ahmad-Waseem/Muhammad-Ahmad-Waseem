@@ -20,7 +20,7 @@ I am a **PhD student** passionate about research in **Machine Learning**, with a
   *A visualization pipeline for understanding Diffusion Models.*
   
 - [**Built-up Area Detection**](https://github.com/Muhammad-Ahmad-Waseem/Building-Detection)  
-  *A visualization pipeline for understanding Diffusion Models.*
+  *A Deep Learning Pipeline for built-up area segmentation of satellite images using advanced computer vision techniques*
   
 - [**Accelerator for Handwritten Digit Recognition**](https://github.com/Muhammad-Ahmad-Waseem/Hardware-Accelerator-Design-for-LeNET)  
   *Designed HW accelerator for LeNET handwritten digit recognition model.*
