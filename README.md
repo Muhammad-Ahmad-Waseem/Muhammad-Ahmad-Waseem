@@ -8,8 +8,8 @@ I am a **PhD student** passionate about research in **Machine Learning**, with a
 ## 🛠️ Top Skills & Technologies
 
 - **Python**
-- **Machine Learning** (special interest in Quantization)
-- **Model Optimization**
+- **Machine Learning** 
+- **Model Optimization** (special interest in Quantization)
 - **Computer Vision & NLP**
 
 ---
@@ -20,8 +20,8 @@ I am a **PhD student** passionate about research in **Machine Learning**, with a
   *A visualization pipeline for understanding Diffusion Models.*
   
 - [**Built-up Area Detection**](https://github.com/Muhammad-Ahmad-Waseem/Building-Detection)
-  *Automated extraction of building footprints from satellite imagery using advanced ML techniques.*
-
+  *Automated extraction of builyup area segmentation from satellite imagery using advanced computer vision techniques.*
+  
 - [**Accelerator for Handwritten Digit Recognition**](https://github.com/Muhammad-Ahmad-Waseem/Building-Detection)  
   *Designed HW accelerator for LeNET handwritten digit recognition model.*
 
