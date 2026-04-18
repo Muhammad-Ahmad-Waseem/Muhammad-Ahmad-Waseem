@@ -1,54 +1,131 @@
-# 👋 Hi, I'm Muhammad Ahmad Waseem!
+<div align="center">
 
-## 🎓 About Me
-I am a **PhD student** passionate about research in **Machine Learning**, with a special focus on **Model Optimization** for Computer Vision and NLP tasks. My work revolves around making ML models faster and more efficient, especially on diverse hardware platforms—improving latency and runtime is my jam!
+# Muhammad Ahmad Waseem
 
----
+**ML Engineer · ASR & Speech AI · GPU Systems & Inference Optimization · Model Compression**
 
-## 🛠️ Top Skills & Technologies
+*"Building ML systems that ship — from phoneme models to CUDA kernels."*
 
-- **Python**
-- **Machine Learning** 
-- **Model Optimization** (special interest in Quantization)
-- **Computer Vision & NLP**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Engr-Muhammad-Ahmad-Waseem)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmad-personal-web.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadwaseem648@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2410-2370)
 
----
-
-## 🚀 Featured Projects
-
-- [**Reverse DAAM**](https://github.com/Muhammad-Ahmad-Waseem/rdaam)  
-  *A visualization pipeline for understanding Diffusion Models.*
-  
-- [**Built-up Area Detection**](https://github.com/Muhammad-Ahmad-Waseem/Building-Detection)  
-  *A Deep Learning Pipeline for built-up area segmentation of satellite images using advanced computer vision techniques*
-  
-- [**Accelerator for Handwritten Digit Recognition**](https://github.com/Muhammad-Ahmad-Waseem/Hardware-Accelerator-Design-for-LeNET)  
-  *Designed HW accelerator for LeNET handwritten digit recognition model.*
-
-*(Want to know more? Feel free to ask about my projects!)*
+</div>
 
 ---
 
-## 🌱 Current Focus
+## About Me
 
-- Optimizing ML models for real-world deployment
-- Researching quantization strategies for better performance
-- Bridging the gap between theory and scalable, hardware-aware ML
+ML Engineer completing M.S. CS at **University at Buffalo** (GPA 3.945), with 3+ years shipping production CV/ML systems at **CITY@LUMS**. My work lives at the intersection of **speech recognition**, **GPU kernel optimization**, and **efficient model deployment**.
 
----
-
-## 📚 Fun Facts & Interests
-
-- I love reading the latest ML research papers 📄
-- Cricket fan and active player 🏏
+- 🎤 **ASR & Speech AI** — Wav2Vec 2.0, Conformer, phoneme modeling, children's speech (PER 80%→15%)
+- ⚡ **GPU Systems** — CUDA kernels on A100, TensorRT (5× throughput), INT8/QAT/AWQ/GPTQ
+- 🔬 **Research** — 7 peer-reviewed publications across IEEE IGARSS, BMVC, SDSC; paper under review IEEE SMC 2026
+- 🚀 **Open to** ML Engineer · Applied Scientist · Research Engineer roles from **July 2026** (STEM OPT)
 
 ---
 
-## 📫 Connect with Me
+## 🔥 Active Projects
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/engr-muhammad-ahmad-waseem/)
-- [🌐 Personal Website](https://ahmad-personal-web.vercel.app/)
+| Project | Description | Status |
+|---|---|---|
+| [AutoPhon](https://github.com/Muhammad-Ahmad-Waseem/AutoPhon) | Phoneme-level speech annotation tool using Wav2Vec 2.0 + Whisper; reduces annotation time 10× | 🟢 Active |
+| [reverseDAAM](https://github.com/Muhammad-Ahmad-Waseem/rdaam) | Post-hoc interpretability for diffusion models — maps image regions to text tokens via cross-attention aggregation | 📄 Under Review IEEE SMC 2026 |
+| [TF-Net](https://github.com/Muhammad-Ahmad-Waseem/TF-Net) | Multi-task satellite image segmentation; SOTA 94% F1 on SpaceNet2 + WHU | ✅ IEEE IGARSS 2025 |
 
 ---
 
-> “Optimizing for performance, one model at a time.”
+## 🛠️ Tech Stack
+
+**Speech & ASR**
+
+![Wav2Vec](https://img.shields.io/badge/Wav2Vec_2.0-FF6B35?style=flat-square)
+![Conformer](https://img.shields.io/badge/Conformer-FF6B35?style=flat-square)
+![Whisper](https://img.shields.io/badge/Whisper-FF6B35?style=flat-square)
+![CTC](https://img.shields.io/badge/CTC-FF6B35?style=flat-square)
+![Kaldi](https://img.shields.io/badge/Kaldi-FF6B35?style=flat-square)
+![NeMo](https://img.shields.io/badge/NVIDIA_NeMo-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+**GPU & Systems**
+
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Triton](https://img.shields.io/badge/Triton-76B900?style=flat-square)
+![nvcc](https://img.shields.io/badge/nvcc-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+**Quantization & Compression**
+
+![QAT](https://img.shields.io/badge/QAT-7952B3?style=flat-square)
+![AWQ](https://img.shields.io/badge/AWQ-7952B3?style=flat-square)
+![GPTQ](https://img.shields.io/badge/GPTQ-7952B3?style=flat-square)
+![SmoothQuant](https://img.shields.io/badge/SmoothQuant-7952B3?style=flat-square)
+![LLM.int8](https://img.shields.io/badge/LLM.int8-7952B3?style=flat-square)
+
+**ML Frameworks**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+---
+
+## 📄 Publications
+
+| # | Paper | Venue | Year |
+|---|---|---|---|
+| S.1 | reverseDAAM: Region-to-Token Interpretability for Diffusion Models | Under Review, **IEEE SMC** | 2026 |
+| C.1 | [A Tuning-Fork Network for Improved Building Footprint Extraction](https://2025.ieeeigarss.org/view_paper.php?PaperNum=3689) | **IEEE IGARSS** | 2025 |
+| C.2 | [Evaluating Cooling Efficacy of Urban Green Spaces During Extreme Heat Events](https://www.2025.ieeeigarss.org/view_paper.php?PaperNum=4710) | **IEEE IGARSS** | 2025 |
+| C.3 | [Unsupervised Landmark Discovery Using Consistency Guided Bottleneck](https://arxiv.org/pdf/2309.10518.pdf) | **BMVC** | 2023 |
+| C.4 | [Improved Flood Mapping for Efficient Policy Design](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10282530) | **IEEE IGARSS** | 2023 |
+| C.5 | [PD-SEG: Population Disaggregation Using Deep Segmentation Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10281745) | **IEEE IGARSS** | 2023 |
+| C.6 | [Estimating Spatio-Temporal Urban Development using AI](https://isprs-archives.copernicus.org/articles/XLVIII-4-W5-2022/197/2022/) | **SDSC** | 2022 |
+
+---
+
+## 💼 Experience
+
+```
+University at Buffalo (SUNY)                    Aug 2024 – Jul 2026
+Graduate Research Assistant
+· ASR    → Reduced PER 80%→15% on children's speech via Wav2Vec 2.0 + AutoPhon pipeline
+· GPU    → CUDA kernels for transformer attention/FFN on A100; profiled vs cuBLAS
+· Quant  → Outlier-aware QAT for Conformer ASR: 7.17 WER vs 93.7 naive INT8
+· Bench  → AWQ/GPTQ/SmoothQuant across A100, Jetson, Raspberry Pi
+
+CITY at LUMS                                    Aug 2021 – Jul 2024
+ML Engineer — Computer Vision & Systems
+· Deploy  → TensorRT on NVIDIA AGX Xavier: 5× throughput (3→14 FPS); Punjab Safe Cities Authority
+· Publish → TFNet: 94% F1 on SpaceNet2; IEEE IGARSS 2025
+· Prod    → City-scale waste routing platform: ~100K liters/month fuel savings (LWMC)
+· GEO    → Multi-sensor flood mapping (Sentinel-1/2, Landsat-9): 1,410 km damage assessed
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmad-Waseem&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=76B900&icon_color=76B900&text_color=ffffff&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmad-Waseem&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=76B900&text_color=ffffff&langs_count=6)
+
+</div>
+
+---
+
+<div align="center">
+
+*Available for full-time roles from July 2026 · STEM OPT · Buffalo, NY → Open to relocation*
+
+</div>
