@@ -31,7 +31,7 @@ ML Engineer completing M.S. CS at **University at Buffalo** (GPA 3.945), with 3+
 | Project | Description | Status |
 |---|---|---|
 | [AutoPhon](https://github.com/Muhammad-Ahmad-Waseem/AutoPhon) | Phoneme-level speech annotation tool using Wav2Vec 2.0 + Whisper; reduces annotation time 10× | 🟢 Active |
-| [reverseDAAM](https://github.com/Muhammad-Ahmad-Waseem/rdaam) | Post-hoc interpretability for diffusion models — maps image regions to text tokens via cross-attention aggregation | 📄 Under Review IEEE SMC 2026 |
+| [BiDAAM](https://github.com/Muhammad-Ahmad-Waseem/BiDAAM) | Post-hoc interpretability framework for diffusion models | 📄 Under Review IEEE SMC 2026 |
 | [TF-Net](https://github.com/Muhammad-Ahmad-Waseem/TF-Net) | Multi-task satellite image segmentation; SOTA 94% F1 on SpaceNet2 + WHU | ✅ IEEE IGARSS 2025 |
 
 ---
