@@ -40,8 +40,8 @@ ML Engineer completing M.S. in CS at **University at Buffalo** (GPA 3.96), with 
 
 **Computer Vision and 3D**
 
-![UNet](https://img.shields.io/badge/UNet-3E6941?style=flat-square)
-![Yolo](https://img.shields.io/badge/Yolo-3E6941?style=flat-square)
+![UNet](https://img.shields.io/badge/UNet-858C4C?style=flat-square)
+![Yolo](https://img.shields.io/badge/Yolo-858C4C?style=flat-square)
 ![DeepSort](https://img.shields.io/badge/DeepSort-3E6941?style=flat-square)
 ![DeepLab](https://img.shields.io/badge/DeepLab-3E6941?style=flat-square)
 ![DSAC](https://img.shields.io/badge/DSAC-3E6941?style=flat-square)
