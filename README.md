@@ -2,9 +2,9 @@
 
 # Muhammad Ahmad Waseem
 
-**ML Engineer · ASR & Speech AI · GPU Systems & Inference Optimization · Model Compression**
+**ML Engineer · Computer Vision, ASR · ML Systems & Inference Optimization · Robotic Perception**
 
-*"Building ML systems that ship — from phoneme models to CUDA kernels."*
+*"Building ML systems that ship — from training to optimizing low-level CUDA kernels."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ml/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-ahmad-ml-portfolio.netlify.app/)
@@ -17,12 +17,12 @@
 
 ## About Me
 
-ML Engineer completing M.S. CS at **University at Buffalo** (GPA 3.945), with 3+ years shipping production CV/ML systems at **CITY@LUMS**. My work lives at the intersection of **speech recognition**, **GPU kernel optimization**, and **efficient model deployment**.
+ML Engineer completing M.S. in CS at **University at Buffalo** (GPA 3.96), with 6+ years of Research Experience, 3+ years shipping production ML systems. My work lives at the intersection of **Model Finetuning**, **GPU kernel optimization**, and **efficient model deployment**.
 
-- 🎤 **ASR & Speech AI** — Wav2Vec 2.0, Conformer, phoneme modeling, children's speech (PER 80%→15%)
-- ⚡ **GPU Systems** — CUDA kernels on A100, TensorRT (5× throughput), INT8/QAT/AWQ/GPTQ
-- 🔬 **Research** — 7 peer-reviewed publications across IEEE IGARSS, BMVC, SDSC; paper under review IEEE SMC 2026
-- 🚀 **Open to** ML Engineer · Applied Scientist · Research Engineer roles from **July 2026** (STEM OPT)
+- 🎤 **CV, ASR & AI** — UNet, Yolo, DeepLab, Wav2Vec, Conformer, Diffusion Models, LLMs, HuggingFace, Pytorch, TensorFlow, Nemo
+- ⚡ **GPU Systems** — CUDA kernels, TensorRT, QAT/PTQ, AWQ/GPTQ/SmoothQuant, NVCC, PySpark, GCP Dataproc
+- 🔬 **Research** — 7 peer-reviewed publications across IEEE IGARSS, BMVC, SDSC; 20+ citations
+- 🚀 **Open to** Applied ML Engineer · ML Systems Engineer · Research Engineer . Perception roles from **July 2026** (STEM OPT)
 
 ---
 
@@ -31,7 +31,7 @@ ML Engineer completing M.S. CS at **University at Buffalo** (GPA 3.945), with 3+
 | Project | Description | Status |
 |---|---|---|
 | [AutoPhon](https://github.com/Muhammad-Ahmad-Waseem/AutoPhon) | Phoneme-level speech annotation tool using Wav2Vec 2.0 + Whisper; reduces annotation time 10× | 🟢 Active |
-| [BiDAAM](https://github.com/Muhammad-Ahmad-Waseem/BiDAAM) | Post-hoc interpretability framework for diffusion models | 📄 Under Review IEEE SMC 2026 |
+| [BiDAAM](https://github.com/Muhammad-Ahmad-Waseem/BiDAAM) | Post-hoc interpretability framework for diffusion models | 📄 Accepted at IEEE SMC 2026 |
 | [TF-Net](https://github.com/Muhammad-Ahmad-Waseem/TF-Net) | Multi-task satellite image segmentation; SOTA 94% F1 on SpaceNet2 + WHU | ✅ IEEE IGARSS 2025 |
 
 ---
@@ -103,11 +103,16 @@ Graduate Research Assistant
 · Bench  → AWQ/GPTQ/SmoothQuant across A100, Jetson, Raspberry Pi
 
 CITY at LUMS                                    Aug 2021 – Jul 2024
-ML Engineer — Computer Vision & Systems
+ML Research Engineer
+· CV      → Satellite Image Segmentation, Vehicle Detection and Classification, Route Optimization
 · Deploy  → TensorRT on NVIDIA AGX Xavier: 5× throughput (3→14 FPS); Punjab Safe Cities Authority
-· Publish → TFNet: 94% F1 on SpaceNet2; IEEE IGARSS 2025
+· Publish → TFNet: A novel architecture for Building Footprint Extraction; 94% F1 on SpaceNet2; IEEE IGARSS 2025
 · Prod    → City-scale waste routing platform: ~100K liters/month fuel savings (LWMC)
-· GEO    → Multi-sensor flood mapping (Sentinel-1/2, Landsat-9): 1,410 km damage assessed
+
+Information Technology University               Sep 2020 – Jul 2021
+Graduate Research Assistant
+· 3D      → DSAC* for camera pose estimation; Colmap for 3D Reconnstruction
+· CV      → Unsupervised facial landmark extraction; GNN, GCN
 ```
 
 ---
