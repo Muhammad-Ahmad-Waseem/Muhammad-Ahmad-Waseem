@@ -40,13 +40,13 @@ ML Engineer completing M.S. in CS at **University at Buffalo** (GPA 3.96), with 
 
 **Computer Vision and 3D**
 
-![UNet](https://img.shields.io/badge/UNet-858C4C?style=flat-square)
-![Yolo](https://img.shields.io/badge/Yolo-858C4C?style=flat-square)
-![DeepSort](https://img.shields.io/badge/DeepSort-00FFFF?style=flat-square)
-![DeepLab](https://img.shields.io/badge/DeepLab-00FFFF?style=flat-square)
+![UNet](https://img.shields.io/badge/UNet-AD3232?style=flat-square)
+![Yolo](https://img.shields.io/badge/Yolo-AD3232?style=flat-square)
+![DeepSort](https://img.shields.io/badge/DeepSort-AD3232?style=flat-square)
+![DeepLab](https://img.shields.io/badge/DeepLab-AD3232?style=flat-square)
 ![DSAC](https://img.shields.io/badge/DSAC-AD3232?style=flat-square)
 ![HourGlass](https://img.shields.io/badge/HourGlass-AD3232?style=flat-square)
-![Colmap](https://img.shields.io/badge/Colmap-3E6941?style=flat-square)
+![Colmap](https://img.shields.io/badge/Colmap-AD3232?style=flat-square)
 
 **Speech & ASR**
 
