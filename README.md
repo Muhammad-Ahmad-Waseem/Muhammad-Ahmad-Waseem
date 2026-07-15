@@ -38,6 +38,16 @@ ML Engineer completing M.S. in CS at **University at Buffalo** (GPA 3.96), with 
 
 ## 🛠️ Tech Stack
 
+**Computer Vision and 3D**
+
+![UNet](https://img.shields.io/badge/UNet-3E6941?style=flat-square)
+![Yolo](https://img.shields.io/badge/Yolo-3E6941?style=flat-square)
+![DeepSort](https://img.shields.io/badge/DeepSort-3E6941?style=flat-square)
+![DeepLab](https://img.shields.io/badge/DeepLab-3E6941?style=flat-square)
+![DSAC](https://img.shields.io/badge/DSAC-3E6941?style=flat-square)
+![HourGlass](https://img.shields.io/badge/HourGlass-3E6941?style=flat-square)
+![Colmap](https://img.shields.io/badge/Colmap-3E6941?style=flat-square)
+
 **Speech & ASR**
 
 ![Wav2Vec](https://img.shields.io/badge/Wav2Vec_2.0-FF6B35?style=flat-square)
@@ -82,13 +92,13 @@ ML Engineer completing M.S. in CS at **University at Buffalo** (GPA 3.96), with 
 
 | # | Paper | Venue | Year |
 |---|---|---|---|
-| S.1 | reverseDAAM: Region-to-Token Interpretability for Diffusion Models | Under Review, **IEEE SMC** | 2026 |
-| C.1 | [A Tuning-Fork Network for Improved Building Footprint Extraction](https://2025.ieeeigarss.org/view_paper.php?PaperNum=3689) | **IEEE IGARSS** | 2025 |
-| C.2 | [Evaluating Cooling Efficacy of Urban Green Spaces During Extreme Heat Events](https://www.2025.ieeeigarss.org/view_paper.php?PaperNum=4710) | **IEEE IGARSS** | 2025 |
-| C.3 | [Unsupervised Landmark Discovery Using Consistency Guided Bottleneck](https://arxiv.org/pdf/2309.10518.pdf) | **BMVC** | 2023 |
-| C.4 | [Improved Flood Mapping for Efficient Policy Design](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10282530) | **IEEE IGARSS** | 2023 |
-| C.5 | [PD-SEG: Population Disaggregation Using Deep Segmentation Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10281745) | **IEEE IGARSS** | 2023 |
-| C.6 | [Estimating Spatio-Temporal Urban Development using AI](https://isprs-archives.copernicus.org/articles/XLVIII-4-W5-2022/197/2022/) | **SDSC** | 2022 |
+| C.1 | BiDAAM: A Bi-directional Attribution Framework for Diffusion Models | **IEEE SMC** | 2026 |
+| C.2 | [A Tuning-Fork Network for Improved Building Footprint Extraction](https://2025.ieeeigarss.org/view_paper.php?PaperNum=3689) | **IEEE IGARSS** | 2025 |
+| C.3 | [Evaluating Cooling Efficacy of Urban Green Spaces During Extreme Heat Events](https://www.2025.ieeeigarss.org/view_paper.php?PaperNum=4710) | **IEEE IGARSS** | 2025 |
+| C.4 | [Unsupervised Landmark Discovery Using Consistency Guided Bottleneck](https://arxiv.org/pdf/2309.10518.pdf) | **BMVC** | 2023 |
+| C.5 | [Improved Flood Mapping for Efficient Policy Design](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10282530) | **IEEE IGARSS** | 2023 |
+| C.6 | [PD-SEG: Population Disaggregation Using Deep Segmentation Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10281745) | **IEEE IGARSS** | 2023 |
+| C.7 | [Estimating Spatio-Temporal Urban Development using AI](https://isprs-archives.copernicus.org/articles/XLVIII-4-W5-2022/197/2022/) | **SDSC** | 2022 |
 
 ---
 
